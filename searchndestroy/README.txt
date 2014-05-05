@@ -5,6 +5,12 @@ Needed:
 rkill (from bleeping computer)
 adaware command line (either x32 or x64)
 
+Notes:
+
+The script will expect two directories. /adaware/ and /adaware/out/ 
+
+Do not deviate from the folder structure. All logs will be deposited in /out/
+
 This program is for adware removal and general housekeeping for malware removal.
 
 The program will remove all files in the %temp% folder (without asking!!!!).
