@@ -4,7 +4,7 @@ REM This batch file is designed to remove malicious software with little to no u
 REM this file will install Malwarebytes, run rkill to kill and known running malicious processes, and then uses REM malwarebytes to remove the threat and generate a log file.
 
 echo Warning: Unauthorized use may result in accidental death, destruction, dismemberment, and/or pregnancy! Use at own risk.
-
+PAUSE
 REM Empty temp folder 
 
 echo y | del /F "%temp%" 
